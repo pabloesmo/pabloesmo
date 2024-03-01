@@ -7,8 +7,8 @@
 
 - 📫 How to reach me **pablo.esgueva@alumnos.upm.es**
 
-- ⚡ In my free time **I enjoy lifting weights at the gym.🏋️‍♂️
-                       Travel around the world.✈️🌍 and
+- ⚡ In my free time **I enjoy lifting weights at the gym 🏋️‍♂️,
+                       travel around the world ✈️🌍 and
                        have fun with my friends.🎉**
 
 <h3 align="left">Connect with me:</h3>
