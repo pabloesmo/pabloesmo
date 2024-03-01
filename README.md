@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/pablo esgueva moro]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo esgueva moro" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pablo-esgueva-moro-2616b6233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo esgueva moro" height="30" width="40" /></a>
 <a href="https://kaggle.com/pabloesguevamoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pabloesguevamoro" height="30" width="40" /></a>
 </p>
 
