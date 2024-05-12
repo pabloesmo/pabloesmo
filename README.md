@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
-<h3 align="center">I'm a spanish 🇪🇸 student of Computer Science Engineering at UPM. I have a strong academic background in IT areas and i'm currently learning some cutting-edge technologies such as artificial intelligence and machine learning. With a passion for innovation and problem-solving, I am constantly seeking new challenges to broaden my skills and knowledge.</h3>
+<h3 align="center">I'm a spanish 🇪🇸 student of Computer Science Engineering at UPM. I have a strong academic background in IT areas and i'm currently learning some cutting-edge technologies such as AI and Machine Learning. With a passion for innovation and problem-solving, I am constantly seeking new challenges to broaden my skills and knowledge.</h3>
 
 - 🌱 I’m currently learning **new skills from courses and exploring advanced topics in machine learning or cybersecurity.**
 
